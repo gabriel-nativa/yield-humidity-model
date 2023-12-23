@@ -1,0 +1,3 @@
+0 w-in-shell
+1 w-kernel
+2 humedad
